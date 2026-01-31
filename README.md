@@ -16,7 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%F0%9F%92%BB;C%2B%2B+%7C+Python+%7C+SQL+Developer;Database+%26+Backend+Enthusiast+%F0%9F%97%84%EF%B8%8F;Learning+AI+%7C+OS+%7C+Assembly+Language;Always+Building+%2C+Always+Learning+%F0%9F%9A%80" />
+  <img src="https://komarev.com/ghpvc/?username=Laiba-Fatima-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%92%BB;C%2B%2B+%7C+Python+%7C+SQL+Developer;Database+%26+Backend+Enthusiast+%F0%9F%97%84%EF%B8%8F;Learning+AI+%7C+OS+%7C+Assembly+Language;Always+Building+%2C+Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -50,31 +54,23 @@
 
 ---
 
-## 📚 Currently Studying
-- 🧩 Operating Systems  
-- 🤖 Artificial Intelligence  
-- 🏗️ Software Engineering  
-- 📊 Probability & Statistics  
-- ⚡ Assembly Language  
-- 💼 Professional Practices  
+## 📌 Featured Projects
+
+- 🔹 **OOP Project (C++)** — classes, inheritance, file handling
+- 🔹 **Database Project (Oracle / SQL)** — schema design + queries
+- 🔹 **MongoDB Cloud Project** — embedding, aggregation, CRUD
+- 🔹 **AI / Python Project** — coming soon 🚀
 
 ---
 
-## 📌 Featured Projects (Pin these on your GitHub)
-⭐ Add your best projects here:
-
-- 🔹 **OOP Project (C++)** — *classes, inheritance, file handling, etc.*
-- 🔹 **Database Project (Oracle / SQL)** — *schema design + queries*
-- 🔹 **MongoDB Cloud Project** — *collections + embedding + aggregation*
-- 🔹 **AI / Python Project** — *coming soon*
-
-> 📌 Go to your GitHub profile → “Customize your pins” → select these repos.
-
----
-
-## 🏆 GitHub Trophies
+## 🌟 Pinned Projects Showcase
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laiba-Fatima-1&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <a href="https://github.com/Laiba-Fatima-1?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laiba-Fatima-1&repo=WORDS-SCRAMBLE-GAME&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Laiba-Fatima-1?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laiba-Fatima-1&repo=SudokuBlitz&theme=tokyonight" />
+  </a>
 </p>
 
 ---
@@ -88,6 +84,13 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Fatima-1&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🐍 Contribution Snake Animation
+> This will animate your contributions like a snake 🐍🔥
+
+![snake gif](https://github.com/Laiba-Fatima-1/Laiba-Fatima-1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
