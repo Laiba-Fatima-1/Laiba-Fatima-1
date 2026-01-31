@@ -76,7 +76,6 @@
 ---
 
 ## 🐍 Contribution Snake Animation
-> This will animate your contributions like a snake 🐍🔥
 
 ![snake gif](https://github.com/Laiba-Fatima-1/Laiba-Fatima-1/blob/output/github-contribution-grid-snake.svg)
 
